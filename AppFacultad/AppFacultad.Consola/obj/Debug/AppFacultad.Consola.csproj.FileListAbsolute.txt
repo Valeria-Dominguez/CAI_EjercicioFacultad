@@ -1,0 +1,10 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\bin\Debug\AppFacultad.Consola.exe.config
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\bin\Debug\AppFacultad.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\bin\Debug\AppFacultad.Consola.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\obj\Debug\AppFacultad.Consola.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\obj\Debug\AppFacultad.Consola.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\obj\Debug\AppFacultad.Consola.exe
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\obj\Debug\AppFacultad.Consola.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\bin\Debug\AppFacultad.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\bin\Debug\AppFacultad.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Consola\obj\Debug\AppFacultad.Consola.csproj.CopyComplete

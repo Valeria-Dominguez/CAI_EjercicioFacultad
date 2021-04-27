@@ -1,0 +1,6 @@
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\bin\Debug\AppFacultad.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\bin\Debug\AppFacultad.Libreria.pdb
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\obj\Debug\AppFacultad.Libreria.csprojAssemblyReference.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\obj\Debug\AppFacultad.Libreria.csproj.CoreCompileInputs.cache
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\obj\Debug\AppFacultad.Libreria.dll
+C:\Users\Valeria\Downloads\CAI\Ejercicios\AppFacultad\AppFacultad.Libreria\obj\Debug\AppFacultad.Libreria.pdb
